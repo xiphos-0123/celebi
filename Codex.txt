@@ -1,1 +1,1 @@
-Here I, a human user will be putting the tasks for Codex. These features needs to be worked on and then directly pushed as well. If you think you have accomplished it already you can ignore it.
+Here I, a human user will be putting the tasks for Codex. These features needs to be worked on and then directly pushed as well. If you think you have accomplished it already, you can ignore it.
